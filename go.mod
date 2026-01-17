@@ -10,9 +10,9 @@ require (
 	github.com/longhorn/types v0.0.0-20251228142423-336840fb2fd6
 	github.com/mitchellh/go-ps v1.0.0
 	github.com/shirou/gopsutil/v3 v3.24.5
-	github.com/sirupsen/logrus v1.9.3
-	github.com/stretchr/testify v1.9.0
-	golang.org/x/exp v0.0.0-20251219203646-944ab1f22d93
+	github.com/sirupsen/logrus v1.9.4
+	github.com/stretchr/testify v1.10.0
+	golang.org/x/exp v0.0.0-20260112195511-716be5621a96
 	golang.org/x/sys v0.38.0
 	google.golang.org/grpc v1.78.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
